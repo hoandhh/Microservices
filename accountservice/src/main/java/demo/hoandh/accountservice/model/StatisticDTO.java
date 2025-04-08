@@ -1,12 +1,19 @@
-package demo.hoandh.statisticservice.model;
+package demo.hoandh.accountservice.model;
+
+import lombok.*;
 
 import java.util.Date;
 
-import lombok.Data;
-
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
+@RequiredArgsConstructor
 public class StatisticDTO {
     private Long id;
+
+    @NonNull
     private String message;
+
+    @NonNull
     private Date createdDate;
 }
