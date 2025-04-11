@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c0ac739-5027-49bc-90dc-0044b9c0fee6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accountservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/AccountserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/AccountserviceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/NotificationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/StatisticService.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/StatisticService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notificationservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notificationservice/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statisticservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/statisticservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configservice/src/main/resources/shared/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configservice/src/main/resources/shared/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notificationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notificationservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notificationservice/src/main/java/demo/hoandh/notificationservice/NotificationserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/notificationservice/src/main/java/demo/hoandh/notificationservice/NotificationserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statisticservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/statisticservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statisticservice/src/main/java/demo/hoandh/statisticservice/StatisticserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/statisticservice/src/main/java/demo/hoandh/statisticservice/StatisticserviceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.AccountserviceApplication.executor": "Run",
     "Spring Boot.ConfigserviceApplication.executor": "Run",
+    "Spring Boot.DiscoveryserviceApplication.executor": "Run",
     "Spring Boot.NotificationserviceApplication.executor": "Run",
     "Spring Boot.StatisticserviceApplication.executor": "Run",
     "git-widget-placeholder": "main",
@@ -91,6 +99,13 @@
     <configuration name="ConfigserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="configservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="demo.hoandhh.configservice.ConfigserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discoveryservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.hoandhh.discoveryservice.DiscoveryserviceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,6 +169,7 @@
       <workItem from="1744213969412" duration="267000" />
       <workItem from="1744214245235" duration="21000" />
       <workItem from="1744214289047" duration="2116000" />
+      <workItem from="1744384395060" duration="3899000" />
     </task>
     <servers />
   </component>
