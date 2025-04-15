@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="statisticservice" />
+        <module name="monitoradmin" />
         <module name="discoveryservice" />
         <module name="configservice" />
         <module name="accountservice" />
@@ -21,6 +22,7 @@
       <module name="configservice" options="-parameters" />
       <module name="discoveryservice" options="-parameters" />
       <module name="gatewayservice" options="-parameters" />
+      <module name="monitoradmin" options="-parameters" />
       <module name="notificationservice" options="-parameters" />
       <module name="statisticservice" options="-parameters" />
     </option>
