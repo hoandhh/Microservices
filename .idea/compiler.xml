@@ -11,6 +11,7 @@
         <module name="configservice" />
         <module name="accountservice" />
         <module name="notificationservice" />
+        <module name="gatewayservice" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
       <module name="accountservice" options="-parameters" />
       <module name="configservice" options="-parameters" />
       <module name="discoveryservice" options="-parameters" />
+      <module name="gatewayservice" options="-parameters" />
       <module name="notificationservice" options="-parameters" />
       <module name="statisticservice" options="-parameters" />
     </option>

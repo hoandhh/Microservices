@@ -9,20 +9,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/AccountserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/AccountserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/StatisticService.java" beforeDir="false" afterPath="$PROJECT_DIR$/accountservice/src/main/java/demo/hoandh/accountservice/client/StatisticService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configservice/src/main/resources/shared/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configservice/src/main/resources/shared/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notificationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notificationservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notificationservice/src/main/java/demo/hoandh/notificationservice/NotificationserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/notificationservice/src/main/java/demo/hoandh/notificationservice/NotificationserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statisticservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/statisticservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statisticservice/src/main/java/demo/hoandh/statisticservice/StatisticserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/statisticservice/src/main/java/demo/hoandh/statisticservice/StatisticserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configservice/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +53,7 @@
     "Spring Boot.AccountserviceApplication.executor": "Run",
     "Spring Boot.ConfigserviceApplication.executor": "Run",
     "Spring Boot.DiscoveryserviceApplication.executor": "Run",
+    "Spring Boot.GatewayserviceApplication.executor": "Run",
     "Spring Boot.NotificationserviceApplication.executor": "Run",
     "Spring Boot.StatisticserviceApplication.executor": "Run",
     "git-widget-placeholder": "main",
@@ -87,7 +87,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AccountserviceApplication">
+  <component name="RunManager" selected="Spring Boot.GatewayserviceApplication">
     <configuration name="AccountserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="accountservice" />
@@ -106,6 +106,13 @@
     <configuration name="DiscoveryserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="discoveryservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="demo.hoandhh.discoveryservice.DiscoveryserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gatewayservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.hoandh.gatewayservice.GatewayserviceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,8 +137,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
       </set>
     </attachedChunks>
   </component>
@@ -170,6 +177,7 @@
       <workItem from="1744214245235" duration="21000" />
       <workItem from="1744214289047" duration="2116000" />
       <workItem from="1744384395060" duration="3899000" />
+      <workItem from="1744698669201" duration="4874000" />
     </task>
     <servers />
   </component>
