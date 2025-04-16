@@ -13,6 +13,8 @@
         <module>notificationservice</module>
         <module>accountservice</module>
         <module>statisticservice</module>
-        <!-- thêm các module khác nếu có -->
+        <module>discoveryservice</module>
+        <module>gatewayservice</module>
+        <module>monitoradmin</module>
     </modules>
 </project>

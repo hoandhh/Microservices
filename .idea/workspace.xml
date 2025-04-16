@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c0ac739-5027-49bc-90dc-0044b9c0fee6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configservice/src/main/resources/shared/gateway-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configservice/src/main/resources/shared/gateway-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monitoradmin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/monitoradmin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monitoradmin/src/main/java/demo/hoandh/monitoradmin/MonitoradminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/monitoradmin/src/main/java/demo/hoandh/monitoradmin/MonitoradminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,39 +37,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.AccountserviceApplication.executor": "Run",
-    "Spring Boot.ConfigserviceApplication.executor": "Run",
-    "Spring Boot.DiscoveryserviceApplication.executor": "Run",
-    "Spring Boot.GatewayserviceApplication.executor": "Run",
-    "Spring Boot.MonitoradminApplication.executor": "Run",
-    "Spring Boot.NotificationserviceApplication.executor": "Run",
-    "Spring Boot.StatisticserviceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Web/Spring-Cloud",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "spring",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AccountserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ConfigserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DiscoveryserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MonitoradminApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.NotificationserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.StatisticserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Web/Spring-Cloud&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Web\Spring-Cloud" />
@@ -144,8 +141,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
@@ -185,6 +182,7 @@
       <workItem from="1744214289047" duration="2116000" />
       <workItem from="1744384395060" duration="3899000" />
       <workItem from="1744698669201" duration="8818000" />
+      <workItem from="1744820156796" duration="85000" />
     </task>
     <servers />
   </component>
